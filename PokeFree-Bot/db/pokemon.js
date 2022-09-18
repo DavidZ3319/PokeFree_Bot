@@ -433,11 +433,11 @@ module.exports = [
     _nb: 103, _engName: "Exeggutor", _frName: "Noadkoko", _type: "Grass", _type2: "Psychic", _expGiven: 3, _catchRate: 45, _male: 2,
     _baseStats: { _total: 520, _hp: 95, _atk: 95, _def: 85, _sAtk: 125, _sDef: 65, _spd: 55 },
     _megaStats: { _total: 613, _hp: 95, _atk: 105, _def: 95, _sAtk: 145, _sDef: 88, _spd: 85 } /* Mega exeggutor ser el Pokémon cuál necesita una mega evolución al caer en el olvido
-    
+
     Idea mía
-    
+
     Types: Dragón psychic
-    
+
     HP: 95
     Atk: 105
     Def: 95
@@ -561,8 +561,8 @@ module.exports = [
     _baseStats: { _total: 535, _hp: 130, _atk: 85, _def: 80, _sAtk: 85, _sDef: 95, _spd: 60 },
     _megaStats: { _total: 602, _hp: 100, _atk: 70, _def: 100, _sAtk: 120, _sDef: 130, _spd: 72 } /* Mega lapras idea mía stats editadas por < @956734155566243850 >
       Types: Water Ice
-    
-    
+
+
     Hp 110
     Atk 70
     Def: 100
@@ -3237,56 +3237,5 @@ module.exports = [
     spatk: 60,
     spdef: 100,
     speed: 60
-  },
-  {     
-     id: "5001",
-     name: "chibi-mew",
-     type: "Psychic",
-     url: "https://media.discordapp.net/attachments/965667383152898088/986271655661805628/Untitled5_20220614193627.png",
-     hp: 100,
-     atk: 100,
-     def: 100,
-     spatk: 100,
-     spdef: 100,
-     speed: 100
-   },
-   	{     
-     id: "486",
-     name: "chibi-salamence",
-     type: "Dragon / Flying",
-     url: "https://media.discordapp.net/attachments/965667383152898088/986253302318653470/Untitled1_20220614182722.png",
-     hp: 95,
-     atk: 135,
-     def: 80,
-     spatk: 110,
-     spdef: 80,
-     speed: 100
-   },
-
-  {     
-     id: "373",
-     name: "candy-cane-regigigas",
-     type: "Normal",
-     url: "https://media.discordapp.net/attachments/965667383152898088/986269050143383622/Untitled96_20211230174838-1.png",
-     hp: 95,
-     atk: 135,
-     def: 80,
-     spatk: 110,
-     spdef: 80,
-     speed: 100
-   },
-  {     
-     id: "1001",
-     name: "Bloodywak",
-     type: "Psychic / Dark",
-     url: "https://media.discordapp.net/attachments/977216352412651532/979808549918081024/Blood_Manipulation_Feral.png",
-
-     hp: 95,
-     atk: 135,
-     def: 80,
-     spatk: 110,
-     spdef: 80,
-     speed: 100
-   },
-   
+  }
 ];

@@ -230,7 +230,7 @@ module.exports = {
             + `**Total IV %:** ${ivTotal}%\n`;
             embed
                 .setDescription(desc)
-                .attachFiles([{ name: "Pokemon.png", attachment: url }])
+                .attachFiles([{ name: "Pokemon.png", attachment: pokemon.url }])
                 .setImage("attachment://" + "Pokemon.png")
                 .setFooter(`Displaying Pokémon: ${selected + 1}/${user.pokemons.length}\nTotal Pokémons: ${s.length}`)
             return message.channel.send(embed)

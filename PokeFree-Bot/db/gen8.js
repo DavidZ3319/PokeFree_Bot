@@ -296,7 +296,7 @@ module.exports = [
     spdef: 60,
     speed: 121
   },
- 
+
   {
     name: "carkol",
     type: "Rock | Fire",
@@ -891,7 +891,7 @@ module.exports = [
     spdef: 115,
     speed: 138
   },
-  {    
+  {
     name: "giratina",
     type: "Ghost | Dragon",
     url: "https://i.imgur.com/cOBfudR.png",
@@ -901,32 +901,7 @@ module.exports = [
     spatk: 10,
     spdef: 10,
     speed: 90
-    
-  },
-  {     
-     id: "5001",
-     name: "chibi-mew",
-     type: "Psychic",
-     url: "https://media.discordapp.net/attachments/965667383152898088/986271655661805628/Untitled5_20220614193627.png",
-     hp: 100,
-     atk: 100,
-     def: 100,
-     spatk: 100,
-     spdef: 100,
-     speed: 100
-   },
-   {     
-     id: "1001",
-     name: "Bloodywak",
-     type: "Psychic / Dark",
-     url: "https://media.discordapp.net/attachments/977216352412651532/979808549918081024/Blood_Manipulation_Feral.png",
 
-     hp: 95,
-     atk: 135,
-     def: 80,
-     spatk: 110,
-     spdef: 80,
-     speed: 100
-   },
-   
+  }
+
 ]

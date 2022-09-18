@@ -17582,27 +17582,6 @@ module.exports = [
     },
     "url": ""
   },
-  {
-    "id": 5001,
-    "name": {
-      "english": "Chibi-Mew",
-      "japanese": "メルメタル",
-      "chinese": "美录梅塔",
-      "french": ""
-    },
-    "type": [
-      "Psychic"
-    ],
-    "base": {
-     "hp": 100,
-     "atk": 100,
-     "def": 100,
-     "spatk": 100,
-     "spdef": 100,
-     "speed": 100
-    },
-    "url": "https://media.discordapp.net/attachments/965667383152898088/986271655661805628/Untitled5_20220614193627.png"
-  },
    {
     "id": 808,
     "name": {
@@ -17623,28 +17602,5 @@ module.exports = [
       "speed": 34
     },
     "url": ""
-  },
-
-   {
-    "id": 1001,
-    "name": {
-      "english": "Bloodywak",
-      "japanese": "フシギダネ",
-      "chinese": "妙蛙种子",
-      "french": "Bloodywak"
-    },
-    "type": [
-      "Dark",
-      "Psychic"
-    ],
-    "base": {
-      "hp": 50,
-      "attack": 70,
-      "defense": 35,
-      "spatk": 75,
-      "spdef": 50,
-      "speed": 50
-    },
-    "url": "https://media.discordapp.net/attachments/977216352412651532/979808549918081024/Blood_Manipulation_Feral.png",
-  },
+  }
 ]

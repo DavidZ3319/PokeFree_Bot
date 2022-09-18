@@ -178,44 +178,7 @@ module.exports = [
     spatk: 50,
     spdef: 64,
     speed: 43
-  },
-   {     
-     id: "5001",
-     name: "chibi-mew",
-     type: "Psychic",
-     url: "https://media.discordapp.net/attachments/965667383152898088/986271655661805628/Untitled5_20220614193627.png",
-     hp: 100,
-     atk: 100,
-     def: 100,
-     spatk: 100,
-     spdef: 100,
-     speed: 100
-   },
-   	{     
-     id: "486",
-     name: "chibi-salamence",
-     type: "Dragon / Flying",
-     url: "https://media.discordapp.net/attachments/965667383152898088/986253302318653470/Untitled1_20220614182722.png",
-     hp: 95,
-     atk: 135,
-     def: 80,
-     spatk: 110,
-     spdef: 80,
-     speed: 100
-   },
-
-  {     
-     id: "373",
-     name: "candy-cane-regigigas",
-     type: "Normal",
-     url: "https://media.discordapp.net/attachments/965667383152898088/986269050143383622/Untitled96_20211230174838-1.png",
-     hp: 95,
-     atk: 135,
-     def: 80,
-     spatk: 110,
-     spdef: 80,
-     speed: 100
-   }
+  }
 ]
 
 
